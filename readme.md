@@ -36,7 +36,7 @@ Overall it can be concluded that the data reflects logical deductions of ride-sh
 
 Below is the multiple line graph of the total weekly fares for each city type showing the trend of Total Fares in $USD from January beginning to the end of April, 2019.
 
-![multiple line graph](./img/img_2.PNG)
+![multiple line graph](./img/img_2.png)
 
 The multiple line graph "Total Fare by City Type" further supports the PyBer Summary by providing trends of total fares in rural, suburban, and urban city types between January 2019 and April 2019. The yellow trend shows how fares in urban cities totaled from around $1,600 USD to $2,300 USD from beginning to end during this time period. In contrast, the blue trend shows how fares in rural cities totaled around $300 USD from beginning to end during the same time period. The red trend shows how the total fares in suburban cities fall in between urban and rural cities, around $700 USD to $1,300 USD from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One noteworthy peak in total fares among urban, suburban, and rural cities occurred sometime at the end of February 2019.
 
